@@ -3,22 +3,22 @@ var url_Empresa = "http://www.agenciamallvirtual.ml";
 
 var cliente = "Asistencia Maorsa Soluciones";
 
-var whatsapp = "(506) 8363-6116";
-var telCel = "tel:50683636116";
+var whatsapp = "(506) 8363-6114";
+var telCel = "tel:50683636114";
 
 var telCel2 = "(506) 8857-6804";
 var numTelCel2 = "tel:50688576804";
 
-var telFijo = "(506) 8363-6116";
-var numLlamarFijo = "tel:50683636116";
+var telFijo = "(506) 8363-6114";
+var numLlamarFijo = "tel:50683636114";
 
-var numMensaje = "https://api.whatsapp.com/send?phone=50683636116&text=";
+var numMensaje = "https://api.whatsapp.com/send?phone=50683636114&text=";
 
 var email = "maorsa5791@gmail.com";
 var btnEmail = 'href="mailto:maorsa5791@gmail.com"';
 
 var asunto = "Información solicitada desde"+cliente;
-var sobremi = "Empresa Costarricense especializada en limpieza de tanques sépticos y destaqueos de tuberías. Nuestra experiencia y personal calificado, nos permite ser la empresa con el mejor servicio, para atender las necesidades en destaqueos de tuberías y limpieza de tanquez de casas, restaurantes, hoteles y edificaciones en general.";
+var sobremi = "Empresa Costarricense especializada en limpieza de tanques sépticos y destaqueo de tuberías. Nuestra experiencia y personal calificado, nos permite ser la empresa con el mejor servicio, para atender las necesidades en destaqueo de tuberías y limpieza de tanques de casas, restaurantes, hoteles y edificaciones en general.";
 var dondeVan = "Con servicio a todo el territorio costarricense";
 var horarioAtencion = "Atendemos las 24 horas, los 7 días de la semana.";
 var notaEspecial = "Nota Importante";
